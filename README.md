@@ -1,2 +1,2 @@
 # GRLC-TEST
-Dice
+Simple Dice 
